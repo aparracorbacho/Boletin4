@@ -19,7 +19,7 @@ public class Ejercicio3 {
     public static void main(String[] args) {
         // TODO code application logic here
         int mes;
-        System.out.println("Introduce el numero del mes");
+        System.out.println("Introduce el numero del mes ");
         Scanner mesTeclado = new Scanner(System.in);
         mes = mesTeclado.nextInt();
         if (mes==1 || mes==3 || mes==5 || mes==7 || mes==8 || mes==10 || mes==12) {
