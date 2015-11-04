@@ -20,7 +20,6 @@ public class Ejercicio1 {
         // TODO code application logic here
         float num1;
         System.out.println("Introduce una cantidad");
-        Scanner Scanner;
         Scanner num1Teclado = new Scanner(System.in);
         num1 = num1Teclado.nextFloat();
         Cantidad calcular = new Cantidad();
